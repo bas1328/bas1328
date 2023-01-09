@@ -4,7 +4,6 @@ My name is Andrei and I am a frontend engineer at Epam Systems.
 
 I specialize in modern technologies such as React.js, Next.js, and Typescript. 
 
-In addition to that, I have also gained expertise in microfrontends, which allows me to create scalable and maintainable frontend applications.
 I have a passion for building intuitive and user-friendly web experiences, and I am always looking to improve my skills and learn new technologies. In my current role at Epam Systems, I have the opportunity to work on a wide range of projects and contribute to the development of cutting-edge web applications. 
 
 I am excited to continue growing my career in the field of frontend development and take on new challenges.
