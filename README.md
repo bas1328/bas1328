@@ -1,6 +1,6 @@
 Hi there! 🖖
 
-My name is Andrei and I am a frontend engineer at Epam Systems. 
+My name is Andrei and I am a frontend engineer. 
 
 I specialize in modern technologies such as React.js, Next.js, and Typescript. 
 
